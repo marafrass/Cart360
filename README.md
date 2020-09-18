@@ -1,3 +1,7 @@
-# Cart360
+# Cart360 #
 
-This is a depository dedicated to CART360!
+This page is for assignments and work done for CART360 during the Fall term of 2020.
+
+
+
+//Martin
