@@ -8,6 +8,14 @@
 ## Etude Three
 [View PDF here!](https://marafrass.github.io/cart360/Hanses,Martin_etudeOne-compressed.pdf)
 
+## Etude Four
+[View PDF here!](https://marafrass.github.io/cart360/Hanses,Martin_etudeOne-compressed.pdf)
+
+## Etude Five
+[Coming Soon](https://marafrass.github.io/cart360/Hanses,Martin_etudeOne-compressed.pdf)
+
+## Etude Six
+[Coming Soon](https://marafrass.github.io/cart360/Hanses,Martin_etudeOne-compressed.pdf)
 
 # THIS = THEN = THAT
 
