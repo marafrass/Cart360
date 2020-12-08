@@ -11,18 +11,13 @@ Hi. This is my minimalist documentation page for CART360.
 [View entire folder here!](https://drive.google.com/drive/folders/1fnX0IauMkfTdOns-lp1j5USxd57SLZBQ?usp=sharing)
 
 ### Etude Three
-[View PDF here!](https://marafrass.github.io/cart360/Hanses,Martin_etudeOne-compressed.pdf)
+[View PDF here!](https://marafrass.github.io/cart360/Build%20Documentation.pdf)
 [View entire folder here!](https://drive.google.com/drive/folders/1XUY_S02jO3wK1T99lAVDm68e0SL6VDIE?usp=sharing)
 
 ### Etude Four
-[View PDF here!](https://marafrass.github.io/cart360/Hanses,Martin_etudeOne-compressed.pdf)
-[View entire folder here!](https://drive.google.com/drive/folders/1bwkSJgmXGLLQ68jZA0fUjmxNi0i5eFxf?usp=sharing)
+[View PDF here!](https://marafrass.github.io/cart360/Building%20Documentation%2C%20Code%20and%20Images.pdf)
+[View entire folder + videos here!](https://drive.google.com/drive/folders/1bwkSJgmXGLLQ68jZA0fUjmxNi0i5eFxf?usp=sharing)
 
-### Etude Five
-[Coming Soon](https://marafrass.github.io/cart360/Hanses,Martin_etudeOne-compressed.pdf)
-
-### Etude Six
-[Coming Soon](https://marafrass.github.io/cart360/Hanses,Martin_etudeOne-compressed.pdf)
 
 ## THIS = THEN = THAT
 
