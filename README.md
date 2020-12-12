@@ -31,7 +31,7 @@ Hi. This is my minimalist documentation page for CART360.
 ### FINAL ARTIFACT
 [View PDF here!](https://marafrass.github.io/cart360/The%20Invisible%20Cat.pdf)
 [View Code here!](https://marafrass.github.io/cart360/INVISIBLE%20CAT%20Code.pdf)
-[View video here!](https://drive.google.com/file/d/1soTdtg0ODCTM9mo-6xJ-i3RSQp0aGt5D/view?usp=sharing)
+[View video and all files here!](https://drive.google.com/drive/folders/1IExRZp1hwZ7OJsVdioQOVlBx6hdkXwkA?usp=sharing)
 
 ## CRITICAL REFLECTIONS
 [View PDF here!](https://marafrass.github.io/cart360/Critical%20Reflections%20Martin%20H.pdf)
